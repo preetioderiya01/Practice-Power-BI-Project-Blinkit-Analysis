@@ -1,5 +1,5 @@
 # Practice-Power-BI-Project-Blinkit-Analysis
-This project is a Power BI dashboard created using Blinkit (formerly Grofers) grocery sales data. It was built as a practice project by following the **Data Tutorials** YouTube channel.
+This project is a Power BI dashboard created using Blinkit grocery sales data. It was built as a practice project by following the **Data Tutorials** YouTube channel.
 
 ## 📁 Files Included
 - `BlinkIT Grocery Data.xlsx`: Raw data used for analysis
